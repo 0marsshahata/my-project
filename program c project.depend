@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1723559600 source:d:\embedded systeam coures\program c project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1723664893 source:d:\embedded systeam coures\program c project\sdbapp.c
+	<stdio.h>
+	"STD.h"
+	"SDB.h"
+
+1723665066 d:\embedded systeam coures\program c project\std.h
+	"STD.h"
+
+1723665134 d:\embedded systeam coures\program c project\sdb.h
+	<stdio.h>
+	"STD.h"
+
+1723657221 source:d:\embedded systeam coures\program c project\sdb.c
+	"SDB.h"
+	"STD.h"
+
