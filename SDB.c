@@ -76,7 +76,3 @@ return false;
 }
 
 
-void SDB_APP() {
-    uint8 choice;
-    SDB_action(choice);
-}

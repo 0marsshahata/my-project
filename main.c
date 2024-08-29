@@ -3,6 +3,6 @@
 
 int main()
 {
-    SDB_APP ();
+    SUB_APP ();
     return 0;
 }
